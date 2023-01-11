@@ -363,6 +363,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Ghost](https://ghost.org/about/)
 * [GitLab](https://gitlab.com) (also uses open core licensing)
 * [Moodle](https://moodle.org/)
+* [ODK](https://getodk.org/); see also the podcast, ["Achieving Financial Sustainability in Open Source"](https://aidevolved.com/podcast/yaw-anokwa-odk/) (podcast)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [WordPress.com](http://wordpress.com/)
